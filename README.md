@@ -1,2 +1,2 @@
 # gf3git
-thirdday text
+thirdday text git learning
